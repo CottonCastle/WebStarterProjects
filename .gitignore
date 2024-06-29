@@ -1,0 +1,5 @@
+# Ignore the .idea directory (IDE specific files)
+.idea/
+
+# Ignore log files
+*.log
