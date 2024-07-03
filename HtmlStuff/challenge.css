@@ -1,6 +1,4 @@
 body {
-    text-align: center;
-    background-color: #c5fffd;
     margin: 50px;
 }
 
@@ -12,12 +10,10 @@ img {
 
 h1 {
     font-family: "Oswald", sans-serif;
-    color: teal
 }
 
 p {
     font-family: "Fira Sans", sans-serif;
-    color: teal
 }
 
 a {

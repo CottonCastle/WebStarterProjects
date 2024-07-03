@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: #c5fffd;
+    color: teal;
+}
+
+h1 {
+    font-family: "Oswald", sans-serif;
+}
+
+p {
+    font-family: "Fira Sans", sans-serif;
+}
+
+a {
+    font-family: "Fira Sans", sans-serif;
+    color: #af1717;
+    text-decoration: none;
+}
