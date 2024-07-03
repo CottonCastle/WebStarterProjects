@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: #c5fffd;
+    margin: 50px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    border-radius: 50px;
+}
+
+h1 {
+    font-family: "Oswald", sans-serif;
+    color: teal
+}
+
+p {
+    font-family: "Fira Sans", sans-serif;
+    color: teal
+}
+
+a {
+    color: #af1717;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#summer-yo {
+    color: darkslategray;
+    font-weight: bold;
+    font-size: 52px;
+}
