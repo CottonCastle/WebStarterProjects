@@ -1,0 +1,53 @@
+h1 {
+    font-size: 48px;
+    color: #005757;
+    margin: 12px 0;
+}
+
+header p {
+    margin-bottom: 12px;
+}
+
+a {
+    margin: 12px;
+    padding: 12px 48px;
+    color: #f7fffa;
+    background-color: #024949;
+    border: 1px solid #30d2f1;
+    border-radius: 4px;
+    font-size: 24px;
+    display: inline-block;
+}
+
+a:hover {
+    background-color: #0d7681;
+    text-decoration: none;
+}
+
+ol {
+    margin: 36px auto 0 auto;
+    width: 500px;
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 16px;
+    margin: 32px;
+    background-color: #0cbbbb;
+    border-radius: 4px;
+    box-shadow: 1px 1px 4px rgba(0,0,0,0.2);
+}
+
+.highlighted-goal {
+    background-color: #7cdcdc;
+}
+
+h2 {
+    color: #01485d;
+    font-family: "Oswald", sans-serif;
+}
+
+main p {
+    margin: 12px;
+}
